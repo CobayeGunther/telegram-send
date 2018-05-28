@@ -2,19 +2,19 @@
 
 minimal bash script to send telegram message
 
-#initial setup 
+## initial setup 
 
  edit the script to put the token of your bot and your chat_id
 
-#Usage
+## Usage
 
  Very easy ! 
 
-telegram-send hello 
+> telegram-send hello 
 
 or
 
-telegram-send "your message with spaces"
+> telegram-send "your message with spaces"
 
 
 Feel free to do whatever you want with this ! 
